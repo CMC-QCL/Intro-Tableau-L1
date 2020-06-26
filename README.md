@@ -57,6 +57,8 @@ We use data offered through a Kaggle competition:
     ```bash
     https://www.kaggle.com/c/titanic/data
     ```
+
+    
 ---
 ### Data Description
   - This section entails variables included in used dataset.
