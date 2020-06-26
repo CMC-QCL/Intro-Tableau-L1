@@ -42,7 +42,7 @@ This workshop is designed for beginners in data visualization. No prior programm
 ### Before you start:
 
 - **Tableau Desktop application** is available on your PC.
-- **Download Titanic Dataset** for Hands-On exercise
+- **Download Datasets** for Hands-On exercise
 
     ```bash
     http://bit.ly/qcl-tableau-Level1-data
@@ -53,7 +53,9 @@ This workshop is designed for beginners in data visualization. No prior programm
     - One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
 We use data offered through a Kaggle competition:
-  - Kaggle WebPage: `https://www.kaggle.com/c/titanic/data`
+```bash
+    https://www.kaggle.com/c/titanic/data
+    ```
 ---
 ### Data Description
   - This section entails variables included in used dataset.
