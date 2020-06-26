@@ -54,4 +54,3 @@ This workshop is designed for beginners in data visualization. No prior programm
 
 We use data offered through a Kaggle competition: - Kaggle WebPage: `https://www.kaggle.com/c/titanic/data` — ### Data Description - This section entails variables included in used dataset.
 
-[Copy of Untitled](https://www.notion.so/739ddfca172d482b9b0a28ff12b4e516)
