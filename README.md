@@ -43,6 +43,7 @@ This workshop is designed for beginners in data visualization. No prior programm
 
 - **Tableau Desktop application** is available on your PC.
 - **Download Datasets** for Hands-On exercise
+- **Datasets** [here](./data) 
 
     ```bash
     http://bit.ly/qcl-tableau-Level1-data
@@ -54,8 +55,9 @@ This workshop is designed for beginners in data visualization. No prior programm
 
 We use data offered through a Kaggle competition:
 
-    ```bash
-    https://www.kaggle.com/c/titanic/data
+
+    ```
+https://www.kaggle.com/c/titanic/data
     ```
 
     
