@@ -43,8 +43,7 @@ This workshop is designed for beginners in data visualization. No prior programm
 
 - **Tableau Desktop application** is available on your PC.
 - **Download Datasets** for Hands-On exercise
-- **Datasets** [here](https://github.com/CMC-QCL/Intro-Tableau-L1/tree/master/data) 
-
+- **Datasets**
     ```bash
     http://bit.ly/qcl-tableau-Level1-data
     ```
