@@ -4,7 +4,7 @@
 
 ### **Workshop Syllabus**
 
-### **QCL Literacy: L1-Coding**
+### **QCL Literacy: Level 1**
 
 ## **Summary**
 
