@@ -6,6 +6,11 @@
 
 ### **QCL Literacy: Level 1**
 
+## **Instructor**
+
+Jeho Park, Ph.D., Director of Quantitative and Computing Lab
+Sam Lee, Graduate Fellow, Quantitative and Computing Lab
+
 ## **Summary**
 
 Tableau is the most powerful, secure, and flexible end-to-end analytics platform for your data. It is designed for the individual, but scaled for the enterprise, Tableau is the only business intelligence platform that turns your data into insights that drive action.
