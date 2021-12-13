@@ -1,5 +1,3 @@
-# README
-
 # Data Visualization with Tableau for Beginners
 
 ### **Workshop Syllabus**
