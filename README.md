@@ -8,7 +8,8 @@
 
 ## **Instructor**
 
-Jeho Park, Ph.D., Director of Quantitative and Computing Lab
+Jeho Park, Ph.D., Director of Quantitative and Computing Lab  
+
 Sam Lee, Graduate Fellow, Quantitative and Computing Lab
 
 ## **Summary**
